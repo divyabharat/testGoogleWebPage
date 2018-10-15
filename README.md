@@ -11,4 +11,6 @@ This testsuite tests the following scenarios
 # Installation Instructions
 * Clone the repo locally 
 * pip install -r requirements.txt (This installs behave, selenium and other requirements)
+* Update the path to the chromedriver in the file features/environment.py
+[Download here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * Run the test suite by executing 'behave' at the command line
