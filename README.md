@@ -10,5 +10,5 @@ This testsuite tests the following scenarios
 
 # Installation Instructions
 * Clone the repo locally 
-* pip install requirements.txt (This installs behave, selenium and other requirements)
+* pip install -r requirements.txt (This installs behave, selenium and other requirements)
 * Run the test suite by executing 'behave' at the command line
