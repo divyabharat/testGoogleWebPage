@@ -8,4 +8,5 @@ def step_impl(context):
 @then('search text field is present!')
 def step_impl(context):
    assert context.searchField
+   assert context.searchField.is_displayed()
    
