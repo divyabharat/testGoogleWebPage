@@ -6,7 +6,7 @@ This testsuite tests the following scenarios
 3. The Google Search button is present. SearchButton.py)
 4. Search text may be entered into the Search text field (e.g. ‘True Fit’) (SearchTextResults.py)
 5. Clicking the ‘Google Search’ button with search text yields search results. (SearchTextResults.py)
-6. Clicking the ‘Google Search’ button with no search text will not perform a search.
+6. Clicking the ‘Google Search’ button with no search text will not perform a search. (NoSearchText.py)
 
 # Installation Instructions
 * Clone the repo locally 
