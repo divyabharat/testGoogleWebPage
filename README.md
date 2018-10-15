@@ -16,7 +16,7 @@ This testsuite tests the following scenarios
 * Run the test suite by executing 'behave' at the command line
 
 # Additional Info
-If the pip install step fails, create a virutalenv
+If the pip install step fails, create a virtualenv
 * virtualenv testGoogleWebPage
 * cd testGoogleWebPage
 * source bin/activate
